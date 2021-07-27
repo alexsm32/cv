@@ -1,7 +1,8 @@
 import Profile from './Profile';
+import Experience from './Experience';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Container, Row } from 'react-bootstrap';
+import { Container, Row, Col } from 'react-bootstrap';
 import Data from './cv.json';
 
 
@@ -12,7 +13,7 @@ function App() {
       <br />
       <Row>
         <Profile Profile={Data.Profile} />
-          
+        <Experience Work={Data.Work} />
       </Row>
     </Container>
   );
