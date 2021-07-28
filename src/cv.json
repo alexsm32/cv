@@ -2,7 +2,11 @@
   "Profile": {
     "Name": "Alejandro Sanz Martin",
     "Occupation": "Student in Metropolia",
-    "Description": "Right now I'm living in Finland. I study Information Technology in Metropolia University of Applied Sciences. In my free time I study Finnish and different kinds of programming languages. I'm interested in networks and computer security and in the future, I would like to earn my living doing some of those things."
+    "Description": [
+      "Right now I'm living in Finland. I study Information Technology in Metropolia University of Applied Sciences.",
+      "In my free time I study Finnish and different kinds of programming languages. I'm interested in clouds and server administration, programming and web developing and databases, for example.",
+      "I am very curious person, I like to know how things work. This helps me to get a better understanding of the subject and helps me to do my job better. I am also detail oriented and proactive. I don’t like to sit at my desk doing nothing. I like to find something to keep myself busy, even on a slow day."
+    ]
   },
   "Languages": [
     {
