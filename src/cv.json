@@ -1,0 +1,119 @@
+{
+  "Profile": {
+    "Name": "Alejandro Sanz Martin",
+    "Occupation": "Student in Metropolia",
+    "Description": [
+      "Right now I'm living in Finland. I study Information Technology in Metropolia University of Applied Sciences.",
+      "In my free time I study Finnish and different kinds of programming languages. I'm interested in clouds and server administration, programming and web developing and databases, for example.",
+      "I am very curious person, I like to know how things work. This helps me to get a better understanding of the subject and helps me to do my job better. I am also detail oriented and proactive. I don’t like to sit at my desk doing nothing. I like to find something to keep myself busy, even on a slow day."
+    ]
+  },
+  "Languages": [
+    {
+      "Language": "Spanish",
+      "Level": "Mother tongue"
+    },
+    {
+      "Language": "English",
+      "Level": "Speaking and writing medium level"
+    },
+    {
+      "Language": "Finnish",
+      "Level": "Beginner"
+    }
+  ],
+  "Contact": {
+    "Linkedin": "www.linkedin.com/in/alejandro-sanz-martín-57a273106",
+    "Email": "alexsm32@gmail.com"
+
+  },
+  "Education": [
+    {
+      "School": "Metropolia",
+      "Place": "Helsinki, Finland",
+      "Title": "Bachelor Degree in Information Technology",
+      "Start": "07/2018",
+      "End": "06/2022",
+      "Courses": [
+        "Finnish for Foreigners 1",
+        "Finnish for Foreigners 2",
+        "Finnish 3 (A2.1-A2.2)",
+        "Finnish 4 (A2.2-B1.1)",
+        "Cisco CCNA1",
+        "Cisco CCNA2",
+        "Cisco CCNA3",
+        "Cisco CCNP1",
+        "Industrial IoT on Google Cloud Platform",
+        "Google Cloud Platform Fundamentals: Core Infrastructure",
+        "Azure Administrator",
+        "Applied WEB application Security: Attacks and Defense",
+        "Linux Operating Systems",
+        "Database Solutions",
+        "Game Engines",
+        "Academic English Communication Skills",
+        "Communication Networks",
+        "Cisco 200-355: Implementing Cisco Wireless Network Fundamentals"
+      ]
+    },
+    {
+      "School": "IES Azarquiel",
+      "Place": "Toledo, Spain",
+      "Title": "Advanced Vocational Qualification in Administration of Networked Computer Systems",
+      "Start": "2014",
+      "End": "2016",
+      "Courses": [
+        "Windows systems",
+        "Active Directory domains",
+        "Linux systems",
+        "Network Design and Administration",
+        "Oracle Database Administration",
+        "SQL",
+        "Hardware Fundamentals",
+        "Markup language",
+        "Creation and restoration of backups",
+        "Redundant Systems Design",
+        "Security in local networks",
+        "Service administration (DHCP, DNS y MAIL)",
+        "Cisco CCNA1",
+        "Cisco CCNA2"
+      ]
+    }
+  ],
+  "Work": [
+    {
+      "Company": "Indra",
+      "Rol": "Technical Support",
+      "Place": "Toledo, Spain",
+      "Start": "30/08/2016",
+      "End": "01/01/2018",
+      "Tasks": [
+        "Technical support and troubleshooting",
+        "Weekly on-call shifts 24x7 regarding said support",
+        "Administration of hight disponibility clustered systems"
+      ]
+    },
+    {
+      "Company": "Indra",
+      "Rol": "Internship Technical Support",
+      "Place": "Toledo, Spain",
+      "Start": "04/04/2016",
+      "End": "23/06/2016",
+      "Tasks": [
+        "Internship in Ykonos project as support of medical picture"
+      ]
+    }
+  ],
+  "Certificates": [
+    {
+
+    }
+  ],
+  "OtherCourses": [
+
+  ],
+  "Aptitudes": [
+    {
+
+    }
+  ]
+}
