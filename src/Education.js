@@ -4,8 +4,8 @@ function Education(props) {
     const Education = props.Education;
 
     return (
-        <Col md="7" sm="12" className="bg-pru borde" style={{ marginTop: 50 }}>
-            <h2><b>Education</b></h2>
+        <Col md="7" sm="12" className="bg-pru borde pb-2" style={{ marginTop: 50 }}>
+            <h2 className="ml-3"><b>Education</b></h2>
             <br />
             {Education.map((edu) => {
                 return (

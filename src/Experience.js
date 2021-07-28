@@ -5,8 +5,8 @@ function Experience(props) {
     const Work = props.Work;
 
     return (
-        <Col md={{ span: 4, offset: 1 }} sm="12" className="bg-pru borde" style={{ marginTop: 50 }}>
-            <h2><b>Experience</b></h2>
+        <Col md={{ span: 4, offset: 1 }} sm="12" className="bg-pru borde pb-2" style={{ marginTop: 50 }}>
+            <h2 className="ml-3"><b>Experience</b></h2>
             <br />
             {Work.map((job) => {
                 return (
@@ -22,7 +22,6 @@ function Experience(props) {
                                 )
                             })}
                         </ul>
-                        <br />
                     </div>
                 )
             })}
