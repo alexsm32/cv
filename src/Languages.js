@@ -6,7 +6,7 @@ function Languages(props) {
 
     return (
         <Col xs="12" className="bg-pru borde pb-2 align-self-start" style={{ marginTop: 50 }}>
-            <h2 className="ml-3"><b>Languages</b></h2>
+            <h3 className="ml-3">Languages</h3>
             <ul>
                 {Languages.map((language) => {
                     return (

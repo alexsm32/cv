@@ -19,3 +19,10 @@ body {
   color: rgb(255, 255, 255);
 }
 
+a:link {
+  color: rgb(14, 200, 247);
+}
+
+a:visited {
+  color: rgb(14, 200, 247);
+}
