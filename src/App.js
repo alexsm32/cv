@@ -16,14 +16,14 @@ function App() {
       <br />
       <Row>
         <Profile Profile={Data.Profile} />
-        <Experience Work={Data.Work} />
-      </Row>
-      <Row>
-        <Education Education={Data.Education} />
         <Col md={{ span: 4, offset: 1 }} sm="12" className="p-0">
         <Languages Languages={Data.Languages} />
         <Contact Contact={Data.Contact} />
         </Col>
+      </Row>
+      <Row>
+        <Education Education={Data.Education} />
+        <Experience Work={Data.Work} />
       </Row>
       <br />
     </Container>
