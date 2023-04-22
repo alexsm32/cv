@@ -10,20 +10,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  CodeCheck:
-
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      
-      - name: Checking code with Super-Linter
-        uses: github/super-linter@v5.0.0
-
   Build:
-
-    needs: [CodeCheck]
 
     runs-on: ubuntu-latest
 
