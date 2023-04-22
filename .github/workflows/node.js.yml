@@ -40,7 +40,8 @@ jobs:
       with:
         # Artifact name
         name: CV
-        path: ./*
+        # Artifact path
+        path: ${{ github.repository }}
 
   Deploy:
 
