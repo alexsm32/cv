@@ -41,7 +41,9 @@ jobs:
         # Artifact name
         name: CV
         # Artifact path
-        path: ${{ github.workspace }}
+        path: |
+          ${{ github.workspace }}
+          !${{ github.workspace }}/node_modules
 
   Deploy:
 
@@ -57,6 +59,7 @@ jobs:
         name: CV
     - name: Deploy with gh-pages
       run: |
+        npm install
         git config --global user.name $user_name
         git config --global user.email $user_email
         git remote set-url origin https://${github_token}@github.com/${repository}
